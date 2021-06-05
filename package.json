@@ -1,0 +1,18 @@
+{
+  "name": "ddd-decorators",
+  "version": "1.0.0",
+  "description": "A Library to help with DDD",
+  "repository": "https://github.com/jappyjan/ddd-decorators.git",
+  "author": "Jan Jaap <mail@janjaap.de>",
+  "license": "MIT",
+  "private": false,
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "devDependencies": {
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.2"
+  }
+}
