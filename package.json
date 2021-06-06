@@ -1,8 +1,8 @@
 {
-  "name": "ddd-decorators",
+  "name": "ddd-tools",
   "version": "1.0.0",
   "description": "A Library to help with DDD",
-  "repository": "https://github.com/jappyjan/ddd-decorators.git",
+  "repository": "https://github.com/jappyjan/ddd-tools.git",
   "author": "Jan Jaap <mail@janjaap.de>",
   "license": "MIT",
   "private": false,
@@ -12,7 +12,11 @@
     "/dist"
   ],
   "devDependencies": {
+    "@types/uuid": "^8.3.0",
     "ts-node": "^10.0.0",
     "typescript": "^4.3.2"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2"
   }
 }
